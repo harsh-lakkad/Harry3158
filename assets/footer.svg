@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="End of transmission">
+  <line x1="0" y1="20" x2="330" y2="20" stroke="#8b949e" stroke-opacity=".45"/>
+  <text x="450" y="24" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="3" fill="#8b949e">END OF TRANSMISSION</text>
+  <line x1="570" y1="20" x2="900" y2="20" stroke="#8b949e" stroke-opacity=".45"/>
+</svg>
