@@ -35,7 +35,7 @@
     </g>
 
     <!-- header strip -->
-    <text x="64" y="74" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2.5" fill="#8b949e">CREW FILE · HARRY3158 · <tspan fill="#3fb950">● </tspan><tspan fill="#3fb950" class="pulse">NOMINAL</tspan></text>
+    <text x="64" y="74" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2.5" fill="#8b949e">CREW FILE · HARSH-LAKKAD · <tspan fill="#3fb950">● </tspan><tspan fill="#3fb950" class="pulse">NOMINAL</tspan></text>
     <!-- identity -->
     <text x="62" y="158" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="1" fill="#f0f6fc">Harsh Lakkad</text>
     <rect x="64" y="180" width="56" height="3" fill="#58a6ff"/>

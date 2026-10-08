@@ -46,10 +46,10 @@ Right now I'm working with **Basilisk**, the open-source astrodynamics framework
 
 | Project | Description | Stack | Date |
 |:--|:--|:--|:--:|
-| [**Basilisk Spacecraft Simulation**](https://github.com/Harry3158/basilisk) | Hands-on work with the AVS Lab astrodynamics framework, covering dynamics effectors, attitude control and mission-scenario simulation | C/C++ · Python | `Jul 2024` |
-| [**Pragyaan Rover Briefing Generator**](https://github.com/Harry3158/harry-s-code/blob/main/harsh.py) | A script that builds a complete PowerPoint briefing on ISRO's Pragyaan lunar rover, covering specifications, APXS and LIBS payloads, mission objectives and landing | Python · python-pptx | `Jun 2024` |
-| [**Car Price Predictor**](https://github.com/Harry3158/harry-s-code) | A Flask web app that predicts used-car prices from manufacturer, model, year, fuel type and distance driven, using a trained ML model | Python · Flask · pandas | `Jun 2024` |
-| [**Video Downlink Utility**](https://github.com/Harry3158/harry-s-code) | A command-line tool that downloads YouTube videos at a chosen resolution and falls back automatically to the best available stream | Python · pytube | `Jun 2024` |
+| [**Basilisk Spacecraft Simulation**](https://github.com/harsh-lakkad/basilisk) | Hands-on work with the AVS Lab astrodynamics framework, covering dynamics effectors, attitude control and mission-scenario simulation | C/C++ · Python | `Jul 2024` |
+| [**Pragyaan Rover Briefing Generator**](https://github.com/harsh-lakkad/harry-s-code/blob/main/harsh.py) | A script that builds a complete PowerPoint briefing on ISRO's Pragyaan lunar rover, covering specifications, APXS and LIBS payloads, mission objectives and landing | Python · python-pptx | `Jun 2024` |
+| [**Car Price Predictor**](https://github.com/harsh-lakkad/harry-s-code) | A Flask web app that predicts used-car prices from manufacturer, model, year, fuel type and distance driven, using a trained ML model | Python · Flask · pandas | `Jun 2024` |
+| [**Video Downlink Utility**](https://github.com/harsh-lakkad/harry-s-code) | A command-line tool that downloads YouTube videos at a chosen resolution and falls back automatically to the best available stream | Python · pytube | `Jun 2024` |
 
 <br/>
 
@@ -64,7 +64,7 @@ Right now I'm working with **Basilisk**, the open-source astrodynamics framework
 <img src="./assets/h-05.svg" alt="05 Connect" width="100%"/>
 
 - **LinkedIn:** [linkedin.com/in/harsh-lakkad](https://www.linkedin.com/in/harsh-lakkad/)
-- **GitHub:** [github.com/Harry3158](https://github.com/Harry3158)
+- **GitHub:** [github.com/harsh-lakkad](https://github.com/harsh-lakkad)
 
 <br/>
 
