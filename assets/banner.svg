@@ -39,16 +39,16 @@
     <!-- identity -->
     <text x="62" y="158" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="1" fill="#f0f6fc">Harsh Lakkad</text>
     <rect x="64" y="180" width="56" height="3" fill="#58a6ff"/>
-    <text x="64" y="218" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#c9d1d9">Space Systems  ·  Simulation  ·  Engineering Software</text>
-    <text x="64" y="252" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.5" fill="#8b949e">PYTHON   MATLAB   C   C++</text>
+    <text x="64" y="218" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#c9d1d9">Structural &amp; Spacecraft Systems Engineer</text>
+    <text x="64" y="252" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.5" fill="#8b949e">FEA  ·  RE-ENTRY SYSTEMS  ·  MISSION DESIGN  ·  M.SC. SATELLITE TECHNOLOGY</text>
 
     <!-- telemetry readout -->
     <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="1.5">
-      <text x="1136" y="74" text-anchor="end" fill="#8b949e">BASE  <tspan fill="#e6edf3">GERMANY</tspan></text>
-      <text x="1136" y="94" text-anchor="end" fill="#8b949e">FOCUS  <tspan fill="#e6edf3">ASTRODYNAMICS · GN&amp;C</tspan></text>
+      <text x="1136" y="74" text-anchor="end" fill="#8b949e">BASE  <tspan fill="#e6edf3">WÜRZBURG, GERMANY</tspan></text>
+      <text x="1136" y="94" text-anchor="end" fill="#8b949e">FOCUS  <tspan fill="#e6edf3">STRUCTURES · FEA · RE-ENTRY</tspan></text>
       <text x="1136" y="114" text-anchor="end" fill="#8b949e">LINK  <tspan fill="#e6edf3">LINKEDIN/IN/HARSH-LAKKAD</tspan></text>
     </g>
-    <text x="64" y="304" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#58a6ff" fill-opacity=".8">T+ 00:00:00  ─  MISSION CONSOLE v2</text>
+    <text x="64" y="304" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#58a6ff" fill-opacity=".8">T+ 00:00:00  ─  MISSION CONSOLE v3</text>
   </g>
   <rect x=".5" y=".5" width="1199" height="339" rx="14" fill="none" stroke="#30363d"/>
 </svg>
